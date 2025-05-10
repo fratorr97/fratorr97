@@ -1,15 +1,15 @@
-<!-- Imagen de cabecera -->
+<!-- Header image -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222,100:007ACC&height=200&section=header&text=Francisco%20Torres&fontSize=40&fontAlign=center&fontColor=ffffff" alt="header" />
 </p>
 
-### 👋 Hola, soy Francisco
+### 👋 Hi, I'm Francisco
 
-Soy desarrollador **Fullstack** con varios años de experiencia creando aplicaciones modernas para web y dispositivos móviles. Me interesa construir soluciones útiles, con buen diseño y un enfoque práctico. Disfruto trabajar con tecnologías actuales y seguir aprendiendo para mejorar como profesional.
+I'm a **Fullstack Developer** with several years of experience building modern applications for the web and mobile devices. I'm passionate about creating useful solutions with good design and a practical approach. I enjoy working with up-to-date technologies and continuously learning to grow as a professional.
 
 ---
 
-### 🛠️ Tecnologías que uso con frecuencia
+### 🛠️ Technologies I use frequently
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
@@ -25,16 +25,16 @@ Soy desarrollador **Fullstack** con varios años de experiencia creando aplicaci
 
 ---
 
-### 🌱 Un poco más sobre mí
+### 🌱 A bit more about me
 
-- 🧠 Me gusta aprender tecnologías nuevas, pero prefiero dominar lo que ya uso
-- ⚡ Siempre apunto a escribir código claro y mantenible
-- 🌎 Me interesa la tecnología con impacto social
-- 📍 Basado en *Argentina*
+- 🧠 I enjoy learning new technologies, but I focus on mastering what I already use
+- ⚡ I always aim to write clean and maintainable code
+- 🌎 I'm interested in technology with social impact
+- 📍 Based in *Argentina*
 
 ---
 
-### 🌐 Contacto
+### 🌐 Contact
 
 <p>
   <a href="https://www.linkedin.com/in/ftorres97" target="_blank">
