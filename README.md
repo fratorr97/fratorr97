@@ -28,8 +28,8 @@ Soy desarrollador **Fullstack** con varios años de experiencia creando aplicaci
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftorres97&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftorres97&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fratorr97&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fratorr97&layout=compact&hide_border=true" width="48%" />
 </p>
 
 ---
