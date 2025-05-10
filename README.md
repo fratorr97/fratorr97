@@ -25,14 +25,6 @@ Soy desarrollador **Fullstack** con varios años de experiencia creando aplicaci
 
 ---
 
-### 🟩 Contribuciones recientes
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/fratorr97" alt="Gráfico de contribuciones de fratorr97" />
-</p>
-
----
-
 ### 🌱 Un poco más sobre mí
 
 - 🧠 Me gusta aprender tecnologías nuevas, pero prefiero dominar lo que ya uso
